@@ -10,7 +10,7 @@
         "overlay_alpha": 0
     },
     "fonts": {
-        "*": "#"
+        "*": "https://github.com/ZeldrexK0DE/KaicordThemes/blob/main/Spark/Sen-Regular.ttf?raw=true"
     },
     "simple_colors": {
         "input_background": -15459802,
