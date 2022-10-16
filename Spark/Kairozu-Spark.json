@@ -1,0 +1,58 @@
+{
+    "manifest": {
+        "version": "4.1.2",
+        "updater": "",
+        "license": "GPL-3.0",
+        "name": "Spark",
+        "author": "–✦– 𝙆𝙖𝙞𝙧𝙤𝙯𝙪𝙑𝙏 –✦–#4469"
+    },
+    "background": {
+        "overlay_alpha": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "input_background": -15459802,
+        "mention_highlight": 856205415,
+        "accent": -5765088,
+        "statusbar": -15459802,
+        "background": -15459802
+    },
+    "colors": {
+        "brand_new_560": -10983950,
+        "link": -5765088,
+        "primary_700": -14145496,
+        "primary_dark_200": -1,
+        "primary_dark_300": -1,
+        "primary_dark_400": -7895161,
+        "primary_dark_600": -15724528,
+        "primary_dark_630": -15724528,
+        "primary_dark_660": -15724528,
+        "primary_dark_700": -15921907,
+        "primary_dark_800": -15724528,
+        "uikit_btn_bg_color_selector_red": -5765088,
+        "uikit_btn_compound_color_selector_dark": -5765088,
+        "primary_dark_360": -7895161,
+        "uikit_settings_item_text_color_dark": -1,
+        "abc_tint_switch_track": -15724528,
+        "uikit_settings_item_text_color_light": -14145496
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -5765088,
+        "drawable_button_red": -5765088,
+        "drawable_overlay_channels_selected_dark": -14145496,
+        "drawable_voice_sensitivity_progress": -5765088,
+        "drawable_voice_user_background_speaking": -1,
+        "ic_channel_announcements": -1,
+        "ic_channel_text": -1,
+        "ic_channel_text_locked": -1,
+        "ic_channel_text_nsfw": -1,
+        "ic_sidebar_notifications_off_dark_24dp": -7895161,
+        "ic_sidebar_notifications_on_dark_24dp": -1,
+        "ic_sidebar_pins_off_dark_24dp": -1,
+        "ic_direct_message_header": -1,
+        "ic_group_message_header": -1,
+        "ic_menu_24dp": -1,
+        "ic_sidebar_search_24dp": -1
+    },
+    "raws": {}
+}
