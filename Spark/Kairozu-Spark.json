@@ -9,7 +9,9 @@
     "background": {
         "overlay_alpha": 0
     },
-    "fonts": {},
+    "fonts": {
+        "*": "#"
+    },
     "simple_colors": {
         "input_background": -15459802,
         "mention_highlight": 856205415,
