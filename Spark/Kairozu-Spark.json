@@ -1,7 +1,7 @@
 {
     "manifest": {
         "version": "4.1.2",
-        "updater": "",
+        "updater": "https:\/\/raw.githubusercontent.com\/ZeldrexK0DE\/KaicordThemes\/main\/KairozuSpark.json",
         "license": "GPL-3.0",
         "name": "Spark",
         "author": "–✦– 𝙆𝙖𝙞𝙧𝙤𝙯𝙪𝙑𝙏 –✦–#4469"
