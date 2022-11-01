@@ -10,11 +10,10 @@
         "overlay_alpha": 0
     },
     "fonts": {
-        "ginto_regular": "https:\/\/github.com\/ZeldrexK0DE\/KaicordThemes\/blob\/main\/Spark\/ZenMaruGothic-Regular.ttf?raw=true",
-        "*": "https:\/\/github.com\/ZeldrexK0DE\/KaicordThemes\/blob\/main\/Spark\/Sen-Regular.ttf?raw=true",
         "ginto_medium": "https:\/\/github.com\/ZeldrexK0DE\/KaicordThemes\/blob\/main\/Spark\/ZenMaruGothic-Medium.ttf?raw=true",
         "ginto_bold": "https:\/\/github.com\/ZeldrexK0DE\/KaicordThemes\/blob\/main\/Spark\/ZenMaruGothic-Bold.ttf?raw=true",
-        "whitney_bold": "https:\/\/github.com\/ZeldrexK0DE\/KaicordThemes\/blob\/main\/Spark\/Sen-Bold.ttf?raw=true"
+        "ginto_regular": "https:\/\/github.com\/ZeldrexK0DE\/KaicordThemes\/blob\/main\/Spark\/ZenMaruGothic-Regular.ttf?raw=true",
+        "*": "https:\/\/github.com\/ZeldrexK0DE\/KaicordThemes\/blob\/main\/Spark\/ZenMaruGothic-Medium.ttf?raw=true"
     },
     "simple_colors": {
         "input_background": -15459802,
@@ -24,7 +23,7 @@
         "background": -15459802
     },
     "colors": {
-        "brand_new_560": -2100648,
+        "brand_new_560": -10980878,
         "link": -16209762,
         "primary_700": -14145496,
         "primary_dark_200": -1,
@@ -35,7 +34,7 @@
         "primary_dark_660": -15724528,
         "primary_dark_700": -15921907,
         "primary_dark_800": -15724528,
-        "uikit_btn_bg_color_selector_red": -5986296,
+        "uikit_btn_bg_color_selector_red": -10849083,
         "uikit_btn_compound_color_selector_dark": -16209762,
         "primary_dark_360": -7895161,
         "uikit_settings_item_text_color_dark": -1,
@@ -46,7 +45,7 @@
         "drawable_button_grey": -16209760,
         "drawable_button_red": -16211800,
         "drawable_overlay_channels_selected_dark": -14145496,
-        "drawable_voice_sensitivity_progress": -6838264,
+        "drawable_voice_sensitivity_progress": -16243032,
         "drawable_voice_user_background_speaking": -1,
         "ic_channel_announcements": -1,
         "ic_channel_text": -1,
