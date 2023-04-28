@@ -1,4 +1,5 @@
 These are mostly themes for ALiucord but could be converted to BD themes. 
 
-- Cosmica - Finished.
+- Cosmicka - Finished.
+- Cosmicka (Venncord/Aliucord React Native) WIP.
 - Spark - WIP.
